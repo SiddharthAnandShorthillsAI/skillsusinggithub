@@ -1,6 +1,8 @@
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
+//made some changes
+
 void print(int *arr,int n){
     
     for(int i=0;i<5;i++){
